@@ -1,0 +1,20 @@
+lag_wind_tab.lo lag_wind_tab.o:  \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/lag_wind_tab.cpp \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/lag_wind_tab.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h \
+  ../oscl/oscl_base_macros.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h \
+  ../oscl/oscl_base.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdint.h
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/lag_wind_tab.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h:
+
+../oscl/oscl_base_macros.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h:
+
+../oscl/oscl_base.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdint.h:

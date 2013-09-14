@@ -1,0 +1,20 @@
+pow2_tbl.lo pow2_tbl.o:  \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/src/pow2_tbl.cpp \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/pow2.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h \
+  ../oscl/oscl_base_macros.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h \
+  ../oscl/oscl_base.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdint.h
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/pow2.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h:
+
+../oscl/oscl_base_macros.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h:
+
+../oscl/oscl_base.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdint.h:

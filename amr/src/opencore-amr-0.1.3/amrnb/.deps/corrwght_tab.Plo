@@ -1,0 +1,38 @@
+corrwght_tab.lo corrwght_tab.o:  \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/corrwght_tab.cpp \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/p_ol_wgh.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h \
+  ../oscl/oscl_base_macros.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h \
+  ../oscl/oscl_base.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdint.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/mode.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/vad.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/vad1.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/cnst_vad.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/vad2.h
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/p_ol_wgh.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h:
+
+../oscl/oscl_base_macros.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h:
+
+../oscl/oscl_base.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdint.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/mode.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/vad.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/vad1.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/cnst_vad.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/enc/src/vad2.h:

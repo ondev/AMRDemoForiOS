@@ -1,0 +1,17 @@
+lsp_az.lo lsp_az.o:  \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/src/lsp_az.cpp \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/lsp_az.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h \
+  ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h \
+  ../oscl/oscl_base.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdint.h
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/lsp_az.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h:
+
+../oscl/oscl_base.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdint.h:
